@@ -9,11 +9,11 @@ Entra ID.<br />
 <h2>Operating Systems Used </h2> - Windows 11 
 <h2>Audit Logs </h2> 
 <p> 
-<img width="1914" height="869" alt="image" 
-src="https://github.com/user-attachments/assets/4c447cef-3001-4f61-9ffd-e24ca4af592d" /> 
+<<img width="1920" height="916" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/6fe2e273-c08a-4c66-ad51-2f3edc3cd609" />
+> 
 </p> 
 <p> 
-Audit Logs of user Chris Walker. 
+Audit Logs of user mumu epaeli. 
 </p> 
 <br /> 
 <p> 
